@@ -32,6 +32,14 @@ Every external endpoint hardcoded in the client (`iron-fish/ironfish` @ v2.12.0)
 
 Re-run this baseline anytime: [`scripts/check-infra.sh`](scripts/check-infra.sh)
 
+## Monitoring
+
+The network is in maintenance mode, so nobody is watching it but the community. Two
+best-effort watch pages, regenerated periodically off our own nodes:
+
+- [SECURITY-WATCH.md](SECURITY-WATCH.md) — dependency advisories in the frozen client, triaged by real exploitability
+- [MINING-WATCH.md](MINING-WATCH.md) — block-producer concentration / 51%-risk tracking
+
 ## Runbooks
 
 1. [Join the network without the Foundation bootstrap nodes](runbooks/01-join-without-bootstrap.md)
