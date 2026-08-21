@@ -6,7 +6,7 @@ Foundation bootstrap nodes go away. See
 
 | Address | Operator | Region | Online since | Notes |
 |---|---|---|---|---|
-| _(none yet — add yours via PR)_ | | | | |
+| `147.182.172.204:9033` | depinwhale | US East (NYC) | 2026-08-21 | `community-bn-1` · first community bootstrap node |
 
 ## Requirements for listing
 
